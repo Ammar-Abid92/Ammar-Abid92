@@ -1,7 +1,7 @@
 <h1> Hello 👋 Its me, Muhammad Ammar Abid 👦🏻</h1>  
 
- <h4>- 🔭 I’m currently working on :</h4> <img width="40px" height="40px" src="https://code.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" style="max-width:100%;">  
- <h5> - 🌱 I’m currently learning : </h5><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" style="max-width:100%;"> <img width="40px" height="40px" src="https://academind.com/static/82471063091d8dd5c25baba64914d893/c1b63/flutter.png" style="max-width:100%;"> <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs" style="max-width:100%;">
+ <h3>- 🔭 I’m currently working on :</h3> <img width="40px" height="40px" src="https://code.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" style="max-width:100%;">  
+ <h3> - 🌱 I’m currently learning : </h3><img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" style="max-width:100%;"> <img width="40px" height="40px" src="https://academind.com/static/82471063091d8dd5c25baba64914d893/c1b63/flutter.png" style="max-width:100%;"> <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/nodejs/nodejs.png" alt="nodejs" style="max-width:100%;">
 
   <h3>- 👯 I’m looking to collaborate on </h3>  <img width="40px" height="40px" src="https://academind.com/static/82471063091d8dd5c25baba64914d893/c1b63/flutter.png" style="max-width:100%;"> 
 <h3>  - 💬 Ask me about : </h3> <h2> Algorithms 🙃 </h2>
