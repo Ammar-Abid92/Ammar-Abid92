@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ammar-abid-7645951b7/" rel="nofollow">
   <img alt="linkedin" src="https://camo.githubusercontent.com/1dcd5055f954bdffc97262ea35813b55f8af3faf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564496e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedIn&amp;logoColor=white" style="max-width:100%;"> </a> 
   <a href="https://www.instagram.com/ammarabid92_90" rel="nofollow">
- <img width="15%" height="6%" src="https://i.pinimg.com/564x/5d/85/1b/5d851b9c93b0bf5c169efce0117a0673.jpg" style=for-the-badge&amp;style="max-width:100%;"></a>
+ <img src="https://img.shields.io/badge/-Instagram-E4405F"></a>
   
 
 <h3> - 😄 Pronouns ==> He / His </h3>
