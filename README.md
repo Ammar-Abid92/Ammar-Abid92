@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/ammarabid92_90" rel="nofollow">
  <img width="10%" height="6%" src="https://img.shields.io/badge/-Instagram-E4405F"></a>
  <a href="https://www.youtube.com/channel/UCmVTp6pRdetAvz_V0378giQ?view_as=subscriber" rel="nofollow">
-  <img width="10%" height="5%" src="https://img.shields.io/badge/-Youtube-FF0000"></a>
+  <img width="8.5%" height="4%" src="https://img.shields.io/badge/-Youtube-FF0000"></a>
   
 
 <h3> - 😄 Pronouns ==> He / His </h3>
