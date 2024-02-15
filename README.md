@@ -52,18 +52,26 @@ I'm **Muhammad Ammar Abid**, a **Software Engineering student** 👨‍💻 from
 ### :man_technologist: Reach Me! 
 <br>
 
+<a href="https://www.linkedin.com/in/ammar-abid-7645951b7/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a> 
+<a href="mailto:ammarabid890@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 
-<a href="mailto:ammarabid890@gmail.com"> <img alt="gmail" src="https://camo.githubusercontent.com/8e59d6f8d8b35b31eff433c03964ad2dd4484246/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
-</a> <a href="https://twitter.com/AmmarAbid92_90" rel="nofollow">
-  <img alt="twitter" src="https://camo.githubusercontent.com/f6bc8eba24f0d279574852c1a85f0ade22be62ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;">
-</a> <a href="https://www.facebook.com/profile.php?id=100010023240193" rel="nofollow">
-  <img alt="facebook" src="https://camo.githubusercontent.com/caecb22b29549422db0d0b74860a5530439a0247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373766322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/facebook-%231877f2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;"> </a> 
-  <a href="https://www.linkedin.com/in/ammar-abid-7645951b7/" rel="nofollow">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%231877f2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;"> </a> 
+ <a href="https://twitter.com/AmmarAbid92_90" rel="nofollow">
+  <img alt="twitter" src="https://img.shields.io/badge/Twitter-%23D14836.svg?&style=for-the-badge&logo=X&logoColor=black&color=f2f2f2" />    
+</a>
+    
+<a href="https://www.facebook.com/profile.php?id=100010023240193" rel="nofollow">
+  <img alt="facebook" src="https://img.shields.io/badge/Facebook-%23D14836.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=0096FF">
+</a> 
   <a href="https://www.instagram.com/ammarabid92_90" rel="nofollow">
- <img width="10.5%" height="6%" src="https://img.shields.io/badge/-Instagram-E4405F"></a>
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=d62976">
+  </a>
  <a href="https://www.youtube.com/channel/UCmVTp6pRdetAvz_V0378giQ?view_as=subscriber" rel="nofollow">
-  <img width="8.8%" height="4%" src="https://img.shields.io/badge/-Youtube-FF0000"></a>
+  <img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23D14836.svg?&style=for-the-badge&logo=Youtube&logoColor=white">
+ </a>
   
 
 **⚡ Pronouns ==> He / His**
